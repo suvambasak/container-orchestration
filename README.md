@@ -18,6 +18,7 @@ Dynamic Deployment of the services on fog nodes (Raspberry Pi) on the fly with `
 - [Relationship Types](#relationship-types)
 - [Supporting Repositories](#supporting-repositories)
 - [License](#license)
+- [Citation](#citation)
 
 ## Environment Setup
 ---
@@ -225,3 +226,36 @@ docker container run \
 
 ## License
 This work is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+
+
+## Citation
+- Cite this work
+```bibtex
+@article{https://doi.org/10.1002/nem.2246,
+author = {Basak, Suvam and Srirama, Satish Narayana},
+title = {Fog computing out of the box: Dynamic deployment of fog service containers with TOSCA},
+journal = {International Journal of Network Management},
+volume = {n/a},
+number = {n/a},
+pages = {e2246},
+keywords = {docker, dynamic deployment, fog computing, Internet of Things, TOSCA},
+doi = {https://doi.org/10.1002/nem.2246},
+url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/nem.2246},
+eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/nem.2246}
+}
+
+```
+- Cite the case study
+```bibtex
+@INPROCEEDINGS{9861005,
+  author={Srirama, Satish Narayana and Basak, Suvam},
+  booktitle={2022 IEEE 15th International Conference on Cloud Computing (CLOUD)}, 
+  title={Fog Computing out of the Box with FogDEFT Framework: A Case Study}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={342-350},
+  keywords={Performance evaluation;Cloud computing;Computational modeling;Prototypes;Real-time systems;Topology;Internet of Things;Fog computing;Internet of Things;Dynamic deployment;TOSCA;Docker},
+  doi={10.1109/CLOUD55607.2022.00057}}
+
+```
